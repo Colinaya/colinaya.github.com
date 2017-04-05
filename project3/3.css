@@ -1,0 +1,261 @@
+#table1{
+	margin-top:10px;
+	margin-left:10px;
+	width:300px;
+	height:100px;
+	border:thin solid black;
+}
+#box1{
+	position:absolute;
+	margin-left:60px;
+	width:240px;
+	height:24px;
+	background:lightgray;
+}
+.text1{
+	position:absolute;
+	margin-left:12px;
+	font-weight:bold;
+}
+.text2{
+	position:absolute;
+	margin-left:72px;
+}
+.text3{
+	position:absolute;
+	margin-left:132px;
+}
+.text4{
+	position:absolute;
+	margin-left:192px;
+}
+.text5{
+	position:absolute;
+	margin-left:252px;
+}
+
+#box2{
+	position:absolute;
+	margin-top:40px;
+	margin-left:8px;
+	width:272px;
+	height:20px;
+	border:thin solid black;
+}
+#box3{
+	position:absolute;
+	margin-top:68px;
+	margin-left:8px;
+	width:272px;
+	height:20px;
+	border:thin solid black;
+}
+#table2{
+	margin-left:10px;
+	width:300px;
+	height:120px;
+	border:thin solid black;
+	border-style:none solid solid solid;
+}
+.b1{
+	position:absolute;
+	margin-top:8px;
+	margin-left:8px;
+	width:60px;
+	height:60px;
+	background-image:url(1.png);
+} 
+#b2{
+	position:absolute;
+	margin-left:80px;
+	margin-top:18px;
+	width:200px;
+	height:20px;
+	border:thin solid black;
+}
+#b3{
+	position:absolute;
+	margin-left:80px;
+	margin-top:45px;
+	width:200px;
+	height:20px;
+	border:thin solid black;
+}
+.b4{
+	position:absolute;
+	margin-left:16px;
+	margin-top:80px;
+	width:92px;
+	height:24px;
+	background-image:url(2.png);
+}
+.b5{
+	position:absolute;
+	margin-left:116px;
+	margin-top:80px;
+	width:80px;
+	height:24px;
+	background-image:url(3.png);
+}
+.b6{
+	position:absolute;
+	margin-left:204px;
+	margin-top:80px;
+	width:80px;
+	height:24px;
+	background-image:url(4.png);
+}
+#table3{
+	margin-left:10px;
+	width:300px;
+	height:48px;
+	border:thin solid black;
+	border-style:none solid solid solid;
+}
+#a1{
+	position:absolute;
+	margin-left:8px;
+	margin-top:14px;
+	width:272px;
+	height:20px;
+	border:thin solid black;
+}
+#table4{
+	margin-left:10px;
+	width:300px;
+	height:220px;
+	border:thin solid black;
+	border-style:none solid solid solid;
+}
+#tb1{
+	position: absolute;
+	width:120px;
+	height:144px;
+	border:thin solid black;
+	border-style:none solid solid none;
+}
+#t1{
+	position: absolute;
+	margin-top:28px;
+	margin-left:40px;
+	width:40px;
+	height:60px;
+	background:	#F74000;
+}
+.c1{
+	margin-top:90px;
+	margin-left:40px;
+	font-size:12px;
+}
+#tb2{
+    position: absolute;
+    margin-left:120px;
+	width:60px;
+	height:72px;
+	border:thin solid black;
+	border-style:none solid solid none;
+}
+#t2{
+	position: absolute;
+	margin-top:12px;
+	margin-left:14px;
+	width:32px;
+	height:32px;
+	background:	#F74000;
+}
+.c2{
+	margin-top:44px;
+	margin-left:18px;
+	font-size:12px;
+}
+#tb3{
+	position: absolute;
+    margin-left:180px;
+	width:60px;
+	height:72px;
+	border:thin solid black;
+	border-style:none solid solid none;
+}
+#tb4{
+	position:absolute;
+	margin-left:240px;
+	width:60px;
+	height:72px;
+	border:thin solid black;
+	border-style:none none solid none;
+}
+#tb5{
+	position:absolute;
+	margin-top:72px;
+	margin-left:120px;
+	width:60px;
+	height:72px;
+	border:thin solid black;
+	border-style:none solid solid none;
+}
+#tb6{
+	position:absolute;
+	margin-top:72px;
+	margin-left:180px;
+	width:60px;
+	height:72px;
+	border:thin solid black;
+	border-style:none solid solid none;
+}
+#tb7{
+	position:absolute;
+	margin-top:72px;
+	margin-left:240px;
+	width:60px;
+	height:72px;
+	border:thin solid black;
+	border-style:none none solid none;
+}
+.c3{
+	margin-top:44px;
+	margin-left:12px;
+	font-size:12px;
+}
+#tb8{
+	position:absolute;
+	margin-top:144px;
+	width:60px;
+	height:76px;
+	border:thin solid black;
+	border-style:none solid none none;
+}
+#tb9{
+	position:absolute;
+	margin-top:144px;
+	margin-left:60px;
+	width:60px;
+	height:76px;border:thin solid black;
+	border-style:none solid none none;
+}
+#tb10{
+	position:absolute;
+	margin-top:144px;
+	margin-left:120px;
+	width:60px;
+	height:76px;
+	border:thin solid black;
+	border-style:none solid none none;
+}
+#tb11{
+	position:absolute;
+	margin-top:144px;
+	margin-left:180px;
+	width:60px;
+	height:76px;
+	border:thin solid black;
+	border-style:none solid none none;
+}
+#tb12{
+	position:absolute;
+	margin-top:144px;
+	margin-left:240px;
+	width:60px;
+	height:76px;
+	border:thin solid black;
+	border-style:none none none none;
+}
