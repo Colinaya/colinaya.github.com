@@ -3,7 +3,7 @@
 	margin-left:10px;
 	width:300px;
 	height:100px;
-	border:thin solid black;
+	border:thin solid gray;
 }
 #box1{
 	position:absolute;
@@ -15,7 +15,7 @@
 .text1{
 	position:absolute;
 	margin-left:12px;
-	font-weight:bold;
+	font-weight:gray;
 }
 .text2{
 	position:absolute;
@@ -40,7 +40,7 @@
 	margin-left:8px;
 	width:272px;
 	height:20px;
-	border:thin solid black;
+	border:thin solid gray;
 }
 #box3{
 	position:absolute;
@@ -48,13 +48,13 @@
 	margin-left:8px;
 	width:272px;
 	height:20px;
-	border:thin solid black;
+	border:thin solid gray;
 }
 #table2{
 	margin-left:10px;
 	width:300px;
 	height:120px;
-	border:thin solid black;
+	border:thin solid gray;
 	border-style:none solid solid solid;
 }
 .b1{
@@ -71,7 +71,7 @@
 	margin-top:18px;
 	width:200px;
 	height:20px;
-	border:thin solid black;
+	border:thin solid gray;
 }
 #b3{
 	position:absolute;
@@ -79,7 +79,7 @@
 	margin-top:45px;
 	width:200px;
 	height:20px;
-	border:thin solid black;
+	border:thin solid gray;
 }
 .b4{
 	position:absolute;
@@ -109,7 +109,7 @@
 	margin-left:10px;
 	width:300px;
 	height:48px;
-	border:thin solid black;
+	border:thin solid gray;
 	border-style:none solid solid solid;
 }
 #a1{
@@ -118,20 +118,20 @@
 	margin-top:14px;
 	width:272px;
 	height:20px;
-	border:thin solid black;
+	border:thin solid gray;
 }
 #table4{
 	margin-left:10px;
 	width:300px;
 	height:220px;
-	border:thin solid black;
+	border:thin solid gray;
 	border-style:none solid solid solid;
 }
 #tb1{
 	position: absolute;
 	width:120px;
 	height:144px;
-	border:thin solid black;
+	border:thin solid gray;
 	border-style:none solid solid none;
 }
 #t1{
@@ -140,7 +140,7 @@
 	margin-left:40px;
 	width:40px;
 	height:60px;
-	background:	#F74000;
+	background-image:url(6.png);
 }
 .c1{
 	margin-top:90px;
@@ -152,7 +152,7 @@
     margin-left:120px;
 	width:60px;
 	height:72px;
-	border:thin solid black;
+	border:thin solid gray;
 	border-style:none solid solid none;
 }
 #t2{
@@ -161,7 +161,7 @@
 	margin-left:14px;
 	width:32px;
 	height:32px;
-	background:	#F74000;
+	background-image:url(5.png);
 }
 .c2{
 	margin-top:44px;
@@ -173,7 +173,7 @@
     margin-left:180px;
 	width:60px;
 	height:72px;
-	border:thin solid black;
+	border:thin solid gray;
 	border-style:none solid solid none;
 }
 #tb4{
@@ -181,7 +181,7 @@
 	margin-left:240px;
 	width:60px;
 	height:72px;
-	border:thin solid black;
+	border:thin solid gray;
 	border-style:none none solid none;
 }
 #tb5{
@@ -190,7 +190,7 @@
 	margin-left:120px;
 	width:60px;
 	height:72px;
-	border:thin solid black;
+	border:thin solid gray;
 	border-style:none solid solid none;
 }
 #tb6{
@@ -199,7 +199,7 @@
 	margin-left:180px;
 	width:60px;
 	height:72px;
-	border:thin solid black;
+	border:thin solid gray;
 	border-style:none solid solid none;
 }
 #tb7{
@@ -208,7 +208,7 @@
 	margin-left:240px;
 	width:60px;
 	height:72px;
-	border:thin solid black;
+	border:thin solid gray;
 	border-style:none none solid none;
 }
 .c3{
@@ -221,7 +221,7 @@
 	margin-top:144px;
 	width:60px;
 	height:76px;
-	border:thin solid black;
+	border:thin solid gray;
 	border-style:none solid none none;
 }
 #tb9{
@@ -229,7 +229,7 @@
 	margin-top:144px;
 	margin-left:60px;
 	width:60px;
-	height:76px;border:thin solid black;
+	height:76px;border:thin solid gray;
 	border-style:none solid none none;
 }
 #tb10{
@@ -238,7 +238,7 @@
 	margin-left:120px;
 	width:60px;
 	height:76px;
-	border:thin solid black;
+	border:thin solid gray;
 	border-style:none solid none none;
 }
 #tb11{
@@ -247,7 +247,7 @@
 	margin-left:180px;
 	width:60px;
 	height:76px;
-	border:thin solid black;
+	border:thin solid gray;
 	border-style:none solid none none;
 }
 #tb12{
@@ -256,6 +256,6 @@
 	margin-left:240px;
 	width:60px;
 	height:76px;
-	border:thin solid black;
+	border:thin solid gray;
 	border-style:none none none none;
 }

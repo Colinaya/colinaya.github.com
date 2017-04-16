@@ -1,0 +1,246 @@
+body{
+	background-color:#99bd90;
+}
+.ui-box{
+	margin:50px;
+	display:flex;
+	flex-wrap:wrap;
+	width:800px;
+	height:600px;
+	border:thin solid black;
+	background-color:#cdd3f5;
+	justify-content: space-between;
+}
+.ui-box1{
+	display:flex;
+	margin:20px;
+	width:760px;
+	height:120px;
+	border:thin solid black;
+	background-color:#99bd90;
+	justify-content: space-between;
+
+}
+.ui-subbox1-1{
+	margin-left:20px;
+	margin-top:20px;
+	width:80px;
+	height:80px;
+	border:thin solid black;
+	background-color:#cdd3f5;
+}
+.ui-subbox1-2{
+	margin-left:40px;
+	margin-top:20px;
+	width:80px;
+	height:80px;
+	border:thin solid black;
+	background-color:#cdd3f5;
+}
+.ui-subbox1-3{
+	margin-left:200px;
+	margin-top:20px;
+	margin-right:20px;
+	width:80px;
+	height:80px;
+	border:thin solid black;
+	background-color:#cdd3f5;
+}
+.ui-box2{
+	display:flex;
+	flex-wrap:wrap;
+	margin-left:20px;
+	margin-right:20px;
+    margin-bottom:20px;
+	width:760px;
+	height:420px;
+	border:thin solid black;
+	background-color:#99bd90;
+	justify-content: space-around;
+}
+.ui-leftbox2{
+	display:flex;
+	flex-wrap:wrap;
+	margin-top:20px;
+	width:200px;
+	height:370px;
+	justify-content: space-between;
+}
+.ui-leftsubbox2-1{
+	width:200px;
+	height:300px;
+	border:thin solid black;
+	background-color:#cdd3f5;
+}
+.ui-leftsubbox2-2{
+	margin-top:20px;
+	width:50px;
+	height:50px;
+	border:thin solid black;
+	background-color:#cdd3f5;
+}
+.ui-leftsubbox2-3{
+	margin-top:20px;
+	width:50px;
+	height:50px;
+	border:thin solid black;
+	background-color:#cdd3f5;
+}
+.ui-rightbox2{
+	display:flex;
+	flex-direction:column;
+	margin-top:20px;
+	width:480px;
+	height:370px;
+	justify-content:space-between;
+}
+.ui-rightsubbox2-1{
+	width:480px;
+	height:40px;
+	border:thin solid black;
+	background-color:#cdd3f5;
+}
+.ui-rightsubbox2-2{
+	width:480px;
+	height:40px;
+	border:thin solid black;
+	background-color:#cdd3f5;
+}
+.ui-box-big{
+	margin:50px;
+	display:flex;
+	flex-wrap:wrap;
+	width:390px;
+	height:370px;
+	justify-content:center;
+}
+.ui-box-top{
+	width:390px;
+	height:260px;
+	border:thin solid black;
+	background-color:#ffffeb;
+}
+.ui-box-bottom{
+	display:flex;
+	flex-wrap:wrap;
+	width:390px;
+	height:110px;
+	border:thin solid black;
+	border-style:none solid solid solid;
+	background-color:#ffe6f4;
+	justify-content:center;
+	align-content:space-between;
+}
+.ui-box-bottom-1{
+	margin-top:10px;
+	width:370px;
+	height:20px;
+	border:thin solid black;
+	background-color:#ffffff;
+	font-size:12px;
+    font-weight:bold;
+    line-height:20px;
+}
+.ui-box-bottom-2{
+	width:370px;
+	height:20px;
+	border:thin solid black;
+	background-color:#ffffff;
+	font-size:12px;
+    font-weight:bold;
+    color:#f70b42;
+    line-height:20px;
+}
+.ui-box-bottom-3{
+	display:flex;
+	margin-bottom:10px;
+	width:370px;
+	height:30px;
+	border:thin solid black;
+	background-color:#ffffff;
+	font-size:16px;
+    font-weight:bold;
+    color:#f70b42;
+    line-height:30px;
+}
+.price{
+	font-size:12px;
+	font-weight:normal;
+	color:black; 
+    line-height:40px;
+    text-decoration:line-through;
+}
+.sale{
+	margin-left:150px;
+	font-size:12px;
+	font-weight:normal;
+	color:black; 
+	text-align:right;
+    line-height:40px;
+}
+.ui-box-total{
+	display:flex;
+	flex-wrap:wrap;
+	margin:50px;
+	width:790px;
+	height:440px;
+	border:thin solid black;
+	background-color:#f2f2f2;
+}
+.ui-box-total-1{
+	margin-top:10px;
+	margin-left:10px;
+	width:250px;
+	height:200px;
+}
+.ui-box-total-1-top{
+	width:250px;
+	height:130px;
+	border:thin solid black;
+	background-image:url(1.png);
+}
+.ui-box-total-1-bottom{
+	width:250px;
+	height:70px;
+	border:thin solid black;
+	border-style:none solid solid solid;
+}
+.ui-box-total-1-bottom-1{
+	width:250px;
+	height:20px;
+	font-size:12px;
+    font-weight:bold;
+    line-height:20px;
+}
+.ui-box-total-1-bottom-2{
+	width:250px;
+	height:20px;
+	font-size:12px;
+    font-weight:bold;
+    line-height:20px;
+    color:#f70b42;
+}
+.ui-box-total-1-bottom-3{
+	display:flex;
+	width:250px;
+	height:30px;
+	font-size:16px;
+    font-weight:bold;
+    color:#f70b42;
+    line-height:30px;
+}
+.price1{
+	font-size:12px;
+	font-weight:normal;
+	color:black; 
+    text-decoration:line-through;
+    line-height:40px;
+}
+.sale1{
+	margin-left:35px;
+	font-size:12px;
+	font-weight:normal;
+	color:black; 
+	text-align:right;
+	line-height:40px;
+}
