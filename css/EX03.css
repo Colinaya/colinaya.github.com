@@ -63,7 +63,7 @@
 	margin-left:8px;
 	width:60px;
 	height:60px;
-	background-image:url(1.png);
+	background-image:url(../images/EX03-1.png);
 } 
 #b2{
 	position:absolute;
@@ -87,7 +87,7 @@
 	margin-top:80px;
 	width:92px;
 	height:24px;
-	background-image:url(2.png);
+	background-image:url(../images/EX03-2.png);
 }
 .b5{
 	position:absolute;
@@ -95,7 +95,7 @@
 	margin-top:80px;
 	width:80px;
 	height:24px;
-	background-image:url(3.png);
+	background-image:url(../images/EX03-3.png);
 }
 .b6{
 	position:absolute;
@@ -103,7 +103,7 @@
 	margin-top:80px;
 	width:80px;
 	height:24px;
-	background-image:url(4.png);
+	background-image:url(../images/EX03-4.png);
 }
 #table3{
 	margin-left:10px;
@@ -140,7 +140,7 @@
 	margin-left:40px;
 	width:40px;
 	height:60px;
-	background-image:url(6.png);
+	background-image:url(../images/EX03-6.png);
 }
 .c1{
 	margin-top:90px;
@@ -161,7 +161,7 @@
 	margin-left:14px;
 	width:32px;
 	height:32px;
-	background-image:url(5.png);
+	background-image:url(../images/EX03-5.png);
 }
 .c2{
 	margin-top:44px;
