@@ -1,0 +1,57 @@
+.ui-head{
+	height: 50px;
+	background-color: #000;	
+}
+.button{
+	color: #ffffff;
+	font-size: 16px;
+	line-height: 50px;
+}
+#container{
+	margin: 20px;
+	height: 500px;
+}
+#information{
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	height: 500px;
+}
+.ui-img{
+    height: 100px;
+}
+#ui-img-1{
+    height: 100px;
+    width: 250px;
+}
+.ui-building-left-title{
+    height: 30px;
+    margin-left: -15px;
+    line-height: 30px;
+}
+.glyphicon-star{
+    color: red;
+}
+#star{
+    margin-left: -15px;
+}
+.ui-building-left-sub{
+    height: 20px;
+    line-height: 20px;
+    margin-left: -15px;
+}
+.font1{
+	font-size: 12px;
+}
+.font2{
+	font-size: 14px;
+}
+.ui-building-right-sub{
+    width: 80px;
+    height: 25px;
+    color: #000;
+    text-align: center;
+    line-height: 25px;
+    margin-top: 45px;
+    border-radius: 5px;
+}
